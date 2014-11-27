@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FSAct</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/PsWorker.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/media/UNTITLED/FSAct/src/PsWorker.java</locationURI>
+		</link>
+		<link>
+			<name>src/StringWorker.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/media/UNTITLED/FSAct/src/StringWorker.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
